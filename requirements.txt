@@ -15,4 +15,3 @@ requests
 tgcrypto
 uvloop
 yt_dlp
-pyrofork
